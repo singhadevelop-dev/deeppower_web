@@ -1,0 +1,314 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon.ttf") format("truetype"), url("flaticon.woff") format("woff"), url("flaticon.woff2") format("woff2"), url("flaticon.eot") format("embedded-opentype"), url("flaticon.svg") format("svg");
+}
+
+i[class^=flaticon-],
+i[class*=" flaticon-"] {
+    display: inline-block;
+    line-height: 0;
+}
+
+i[class^=flaticon-]:before,
+i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-google-play:before {
+    content: "\f101";
+}
+
+.flaticon-phone-call:before {
+    content: "\f102";
+}
+
+.flaticon-location:before {
+    content: "\f103";
+}
+
+.flaticon-menu-bar:before {
+    content: "\f104";
+}
+
+.flaticon-magnifying-glass:before {
+    content: "\f105";
+}
+
+.flaticon-speedometer:before {
+    content: "\f106";
+}
+
+.flaticon-petrol:before {
+    content: "\f107";
+}
+
+.flaticon-car:before {
+    content: "\f108";
+}
+
+.flaticon-car-door:before {
+    content: "\f109";
+}
+
+.flaticon-suitcase:before {
+    content: "\f10a";
+}
+
+.flaticon-chat:before {
+    content: "\f10b";
+}
+
+.flaticon-chat-1:before {
+    content: "\f10c";
+}
+
+.flaticon-car-1:before {
+    content: "\f10d";
+}
+
+.flaticon-pin:before {
+    content: "\f10e";
+}
+
+.flaticon-calendar:before {
+    content: "\f10f";
+}
+
+.flaticon-pin-1:before {
+    content: "\f110";
+}
+
+.flaticon-budget:before {
+    content: "\f111";
+}
+
+.flaticon-favourite:before {
+    content: "\f112";
+}
+
+.flaticon-staff:before {
+    content: "\f113";
+}
+
+.flaticon-sedan:before {
+    content: "\f114";
+}
+
+.flaticon-technical-support:before {
+    content: "\f115";
+}
+
+.flaticon-question:before {
+    content: "\f116";
+}
+
+.flaticon-search:before {
+    content: "\f117";
+}
+
+.flaticon-car-repair:before {
+    content: "\f118";
+}
+
+.flaticon-heart:before {
+    content: "\f119";
+}
+
+.flaticon-speedometer-1:before {
+    content: "\f11a";
+}
+
+.flaticon-drive:before {
+    content: "\f11b";
+}
+
+.flaticon-expert:before {
+    content: "\f11c";
+}
+
+.flaticon-clutch-disc:before {
+    content: "\f11d";
+}
+
+.flaticon-settings:before {
+    content: "\f11e";
+}
+
+.flaticon-price-tag:before {
+    content: "\f11f";
+}
+
+.flaticon-shield:before {
+    content: "\f120";
+}
+
+.flaticon-income:before {
+    content: "\f121";
+}
+
+.flaticon-menu:before {
+    content: "\f122";
+}
+
+.flaticon-love:before {
+    content: "\f123";
+}
+
+.flaticon-heart-1:before {
+    content: "\f124";
+}
+
+.flaticon-email:before {
+    content: "\f125";
+}
+
+.flaticon-headlight:before {
+    content: "\f126";
+}
+
+.flaticon-seats:before {
+    content: "\f127";
+}
+
+.flaticon-turn-off:before {
+    content: "\f128";
+}
+
+.flaticon-tire:before {
+    content: "\f129";
+}
+
+.flaticon-steering-wheel:before {
+    content: "\f12a";
+}
+
+.flaticon-star:before {
+    content: "\f12b";
+}
+
+.flaticon-add-to-basket:before {
+    content: "\f12c";
+}
+
+.flaticon-view:before {
+    content: "\f12d";
+}
+
+.flaticon-arrow-up:before {
+    content: "\f12e";
+}
+
+.flaticon-menu-1:before {
+    content: "\f12f";
+}
+
+.flaticon-list-interface-symbol:before {
+    content: "\f130";
+}
+
+.flaticon-visibility:before {
+    content: "\f131";
+}
+
+.flaticon-chat-2:before {
+    content: "\f132";
+}
+
+.flaticon-speedometer-2:before {
+    content: "\f133";
+}
+
+.flaticon-settings-1:before {
+    content: "\f134";
+}
+
+.flaticon-engine:before {
+    content: "\f135";
+}
+
+.flaticon-new-year:before {
+    content: "\f136";
+}
+
+.flaticon-steering-wheel-1:before {
+    content: "\f137";
+}
+
+.flaticon-gas-tank:before {
+    content: "\f138";
+}
+
+.flaticon-form:before {
+    content: "\f139";
+}
+
+.flaticon-placeholder:before {
+    content: "\f13a";
+}
+
+.flaticon-mail:before {
+    content: "\f13b";
+}
+
+.flaticon-show:before {
+    content: "\f13c";
+}
+
+.flaticon-time-left:before {
+    content: "\f13d";
+}
+
+.flaticon-credit-card:before {
+    content: "\f13e";
+}
+
+.flaticon-24-7:before {
+    content: "\f13f";
+}
+
+.flaticon-search-1:before {
+    content: "\f140";
+}
+
+.flaticon-solution:before {
+    content: "\f141";
+}
+
+.flaticon-sale:before {
+    content: "\f142";
+}
+
+.flaticon-energy:before {
+    content: "\f143";
+}
+
+.flaticon-break:before {
+    content: "\f144";
+}
+
+.flaticon-headphones:before {
+    content: "\f145";
+}
+
+.flaticon-handshake:before {
+    content: "\f146";
+}
+
+.flaticon-refund:before {
+    content: "\f147";
+}
+
+.flaticon-money-back:before {
+    content: "\f148";
+}
+
+.flaticon-alarm-clock:before {
+    content: "\f149";
+}

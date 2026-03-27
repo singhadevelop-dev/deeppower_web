@@ -1,0 +1,37 @@
+.line-button {
+    background-color: #09c857;
+    color: white;
+    border-radius: 10px;
+}
+
+.hero-highlight {
+    background-color: #263800;
+    color: white;
+    padding: 5px; /* More horizontal padding for pill effect */
+    border-radius: 10px; /* Super round */
+    /* line-height: 1.2; Tweak if needed */
+    display: inline-block; /* Ensures proper rendering */
+}
+
+.about-text {
+    color: var(--color-accent-1);
+    line-height: 1.2;
+    font-size: 60px;
+}
+
+.option-des {
+    background-color: white;
+    color: #333;
+    border-radius: 10px;
+    width: max-content;
+    padding: 5px 10px;
+    margin: 0 auto; /* Centers it inside the parent */
+}
+
+.rounded {
+    border-radius: 10px;
+}
+
+.iconCard-link:hover {
+    color: var(--color-light-green);
+}

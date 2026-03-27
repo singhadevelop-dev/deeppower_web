@@ -1,0 +1,27 @@
+[15-Dec-2022 08:32:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php:313
+Stack trace:
+#0 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(313): mysqli_query()
+#1 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(1430): SelectRow()
+#2 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(1920): GetWebsiteDetail()
+#3 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/header.php(5): include('...')
+#4 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/home/slide.php(1): include('...')
+#5 {main}
+  thrown in /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php on line 313
+[15-Dec-2022 08:32:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php:313
+Stack trace:
+#0 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(313): mysqli_query()
+#1 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(1430): SelectRow()
+#2 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(1920): GetWebsiteDetail()
+#3 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/header.php(5): include('...')
+#4 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/home/slide.php(1): include('...')
+#5 {main}
+  thrown in /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php on line 313
+[15-Dec-2022 08:41:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php:313
+Stack trace:
+#0 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(313): mysqli_query()
+#1 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(1430): SelectRow()
+#2 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php(1920): GetWebsiteDetail()
+#3 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/header.php(5): include('...')
+#4 /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/home/slide.php(1): include('...')
+#5 {main}
+  thrown in /newdata/vhosts/soneparthailand.com/httpdocs/v3/ControlPanel/assets/b4w-framework/UtilService.php on line 313
